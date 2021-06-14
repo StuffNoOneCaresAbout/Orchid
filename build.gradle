@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
 //sync with versions included in Debian sid, if possible 
-    compile group: 'commons-io', name: 'commons-io', version: '2.9.0'
+    compile group: 'commons-io', name: 'commons-io', version: '2.10.0'
     compile group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
     compile group: 'com.google.guava', name: 'guava', version: '23.0'
 //    compile group: 'net.sf.proguard', name: 'proguard-base', version: '6.0.1'
